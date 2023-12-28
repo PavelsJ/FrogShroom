@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c2785f61623f3414a9691b5c803edeea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 8-bit Arcade Out
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b094b1628b2a028418f656f9c469bb4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
